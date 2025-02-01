@@ -5,7 +5,7 @@ RevivePoint is an anonymous crime reporting website designed to empower citizens
 The AI-powered system enables more accurate reports and faster law enforcement responses, improving community safety.
 
 ## DEMO VIDEO
-[Click Here](#) *(Coming soon)*
+[Click Here]([#](https://youtu.be/M4ukOBippUM)) *(Coming soon)*
 
 ## DEPLOYED SITE
 [Click Here](#) *(Coming soon)*
